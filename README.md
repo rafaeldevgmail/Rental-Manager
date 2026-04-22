@@ -80,7 +80,7 @@ O projeto foi publicado no GitHub já em sua versão funcional.
 
 # Configurações
 
-<img src="./assets/images/img13.jpeg" title="" width="200"><img title="" src="./assets/images/img14.jpeg" width="200"><img title="" src="./assets/images/img15.jpeg" width="200"><img title="" src="./assets/images/img16.jpeg" width="200">
+<img src="./assets/images/img13.jpeg" title="" width="200">
 
 * * *
 
