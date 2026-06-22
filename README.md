@@ -16,8 +16,6 @@
 
 O **Student Rent Receipts** é uma aplicação criada para facilitar o gerenciamento de locações, projetado para lidar com as particularidades de kitnets e moradias estudantis. O diferencial do projeto é a flexibilidade no controle de custos fixos e variáveis, além de uma gestão precisa de quem emite e quem recebe os pagamentos.
 
-O projeto foi publicado no GitHub já em sua versão funcional.
-
 <div align="center">
 <img title="" src="./assets/images/Receipt Manager.jpg" alt="Receipt Manager" width="350">
 </div>
