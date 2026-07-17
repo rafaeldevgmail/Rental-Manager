@@ -11,6 +11,12 @@
 ![PDF](https://img.shields.io/badge/PDF-Generation-e53935?style=flat-square)
 
 ---
+## Preview
+<div align="center">
+
+https://github.com/user-attachments/assets/6a34d7b0-f56d-4931-88a9-017d199a2a49
+
+</div>
 
 ## 📌 Sobre o Projeto
 
